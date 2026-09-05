@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7aQ6uy/ems=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows\\NexusProgrammer\\SDK\\T48.SDK\\src\\T48Sdk\\T48.SDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

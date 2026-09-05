@@ -1,0 +1,4 @@
+C:\Users\Windows\NexusProgrammer\SDK\T48.SDK\src\T48Sdk\tmp\test-obj\Debug\net8.0-windows\T48.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\NexusProgrammer\SDK\T48.SDK\src\T48Sdk\tmp\test-obj\Debug\net8.0-windows\T48.SDK.AssemblyInfoInputs.cache
+C:\Users\Windows\NexusProgrammer\SDK\T48.SDK\src\T48Sdk\tmp\test-obj\Debug\net8.0-windows\T48.SDK.AssemblyInfo.cs
+C:\Users\Windows\NexusProgrammer\SDK\T48.SDK\src\T48Sdk\tmp\test-obj\Debug\net8.0-windows\T48.SDK.csproj.CoreCompileInputs.cache
